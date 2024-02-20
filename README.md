@@ -1,4 +1,4 @@
-# Aplikasi-Login by Zia
+# Aplikasi-Login
 Sebuah aplikasi dengan fitur login
 
 Alur fitur login:
